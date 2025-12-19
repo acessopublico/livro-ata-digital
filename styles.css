@@ -226,13 +226,13 @@
     /* Botão */
     .btn-ver-imagem {
         margin: 3px 0;
-        padding: 8px 14px;
+        padding: 10px 14px;
         border: none;
         background: var(--azul-escuro);
         color: #fff;
         border-radius: 6px;
         cursor: pointer;
-        font-size: 12px;
+        font-size: 14px;
         font-family: 'barlow', sans-serif;
 
         display: inline-flex;
